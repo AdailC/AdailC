@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @AdailC
-- 👀 I’m interested in programming language 
-- 🌱 I’m currently learning Analysis and systems development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 Desenvolvedor em formação | 💡 Apaixonado por tecnologia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)
+🔧 Transição de carreira do setor elétrico diesel para a programação
+🖥️ Explorando Java, POO, e desenvolvimento de interfaces gráficas (Swing)
+📘 Em constante evolução – aprendendo, errando e crescendo
+📍 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais
 
-<!---
-AdailC/AdailC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    “Código limpo, mente clara e vontade de fazer a diferença.”
+
+🌱 Atualmente estudando: Estrutura de Dados, Padrões de Projeto, SQL
+📫 Vamos nos conectar? Estou aberto a estágios, colaboração e boas conversas técnicas.
